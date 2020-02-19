@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Aditti/static/css/main.b34522bd.chunk.css",
-    "main.js": "/Aditti/static/js/main.e003a2cf.chunk.js",
-    "main.js.map": "/Aditti/static/js/main.e003a2cf.chunk.js.map",
+    "main.js": "/Aditti/static/js/main.ffe084b4.chunk.js",
+    "main.js.map": "/Aditti/static/js/main.ffe084b4.chunk.js.map",
     "runtime-main.js": "/Aditti/static/js/runtime-main.c28f8df9.js",
     "runtime-main.js.map": "/Aditti/static/js/runtime-main.c28f8df9.js.map",
     "static/js/2.61146d6c.chunk.js": "/Aditti/static/js/2.61146d6c.chunk.js",
     "static/js/2.61146d6c.chunk.js.map": "/Aditti/static/js/2.61146d6c.chunk.js.map",
     "index.html": "/Aditti/index.html",
-    "precache-manifest.09dbdb1842b4821804f00a0be057d250.js": "/Aditti/precache-manifest.09dbdb1842b4821804f00a0be057d250.js",
+    "precache-manifest.a6c7fcf4c9f6e4a2213db1c066ed26b4.js": "/Aditti/precache-manifest.a6c7fcf4c9f6e4a2213db1c066ed26b4.js",
     "service-worker.js": "/Aditti/service-worker.js",
     "static/css/main.b34522bd.chunk.css.map": "/Aditti/static/css/main.b34522bd.chunk.css.map",
     "static/js/2.61146d6c.chunk.js.LICENSE.txt": "/Aditti/static/js/2.61146d6c.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.c28f8df9.js",
     "static/js/2.61146d6c.chunk.js",
     "static/css/main.b34522bd.chunk.css",
-    "static/js/main.e003a2cf.chunk.js"
+    "static/js/main.ffe084b4.chunk.js"
   ]
 }

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf6ba17cbd140b1dcedd2d5c4ffef652",
+    "revision": "fb90aa3e84f6ebb62dce1a92eb50253c",
     "url": "/Aditti/index.html"
   },
   {
-    "revision": "8c1c4c2ec66a9fb6243e",
+    "revision": "11ba81fb25400631ad4a",
     "url": "/Aditti/static/css/main.b34522bd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aditti/static/js/2.61146d6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c1c4c2ec66a9fb6243e",
-    "url": "/Aditti/static/js/main.e003a2cf.chunk.js"
+    "revision": "11ba81fb25400631ad4a",
+    "url": "/Aditti/static/js/main.ffe084b4.chunk.js"
   },
   {
     "revision": "3d788a3ffeac1dd05ad1",
